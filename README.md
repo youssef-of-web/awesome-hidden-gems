@@ -67,6 +67,7 @@
 | **Chroma** | AI-native embedding/vector database — the memory layer for RAG apps. | ⭐ 20k+ | [Repo](https://github.com/chroma-core/chroma) |
 | **Marker** | Convert PDFs (and more) to clean Markdown — perfect for feeding LLMs. | ⭐ 23k+ | [Repo](https://github.com/datalab-to/marker) |
 | **OpenFlowKit** | Local-first AI diagramming — Mermaid + 1,600 icons, code sync, MP4 export & MCP. | ⭐ 575 | [Repo](https://github.com/Vrun-design/openflowkit) |
+| **Spec Kit** | GitHub's toolkit for Spec-Driven Development — turn specs into code with 30+ AI agents. | ⭐ 107k+ | [Repo](https://github.com/github/spec-kit) |
 
 ---
 
