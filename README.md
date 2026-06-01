@@ -51,6 +51,7 @@
 | **Warp's `bottom` (btm)** | Cross-platform graphical process/system monitor in the terminal. | ⭐ 11k+ | [Repo](https://github.com/ClementTsang/bottom) |
 | **shadcn-admin-kit** | Build full admin apps on shadcn/ui — data tables, forms & auth for any API backend. | ⭐ 970+ | [Repo](https://github.com/marmelab/shadcn-admin-kit) |
 | **CodeFlow** | Paste any GitHub URL → interactive architecture map — see what breaks if you change a file. | ⭐ 3k+ | [Repo](https://github.com/braedonsaunders/codeflow) |
+| **Refine** | Headless React framework for admin panels, dashboards & B2B apps — auth, routing & data built in. | ⭐ 34k+ | [Repo](https://github.com/refinedev/refine) |
 
 ---
 
@@ -74,6 +75,7 @@
 | **models.dev** | Open-source database of AI model specs, pricing & capabilities — with a free API. | ⭐ 4k+ | [Repo](https://github.com/anomalyco/models.dev) |
 | **Hermes Agent** | Self-improving AI agent by Nous Research — learns across sessions & runs on a $5 VPS. | ⭐ 175k+ | [Repo](https://github.com/nousresearch/hermes-agent) |
 | **CodeWhale** | Rust-built terminal coding agent for DeepSeek/MiMo — approval gates & streamed reasoning. | ⭐ 36k+ | [Repo](https://github.com/Hmbown/CodeWhale) |
+| **LLM Checker** | Scans your hardware & tells you exactly which local LLMs you can run — Ollama-integrated. | ⭐ 2k+ | [Repo](https://github.com/Pavelevich/llm-checker) |
 
 ---
 
