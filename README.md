@@ -49,6 +49,8 @@
 | **Atuin** | Magical, syncable, searchable shell history backed by SQLite. | ⭐ 22k+ | [Repo](https://github.com/atuinsh/atuin) |
 | **Biome** | All-in-one formatter + linter for JS/TS — ~25× faster than ESLint+Prettier. | ⭐ 18k+ | [Repo](https://github.com/biomejs/biome) |
 | **Warp's `bottom` (btm)** | Cross-platform graphical process/system monitor in the terminal. | ⭐ 11k+ | [Repo](https://github.com/ClementTsang/bottom) |
+| **shadcn-admin-kit** | Build full admin apps on shadcn/ui — data tables, forms & auth for any API backend. | ⭐ 970+ | [Repo](https://github.com/marmelab/shadcn-admin-kit) |
+| **CodeFlow** | Paste any GitHub URL → interactive architecture map — see what breaks if you change a file. | ⭐ 3k+ | [Repo](https://github.com/braedonsaunders/codeflow) |
 
 ---
 
@@ -68,6 +70,10 @@
 | **Marker** | Convert PDFs (and more) to clean Markdown — perfect for feeding LLMs. | ⭐ 23k+ | [Repo](https://github.com/datalab-to/marker) |
 | **OpenFlowKit** | Local-first AI diagramming — Mermaid + 1,600 icons, code sync, MP4 export & MCP. | ⭐ 575 | [Repo](https://github.com/Vrun-design/openflowkit) |
 | **Spec Kit** | GitHub's toolkit for Spec-Driven Development — turn specs into code with 30+ AI agents. | ⭐ 107k+ | [Repo](https://github.com/github/spec-kit) |
+| **Humanizer** | Claude Code skill that strips 30 tells of AI writing — kills em-dash spam, hedging & filler. | ⭐ 21k+ | [Repo](https://github.com/blader/humanizer) |
+| **models.dev** | Open-source database of AI model specs, pricing & capabilities — with a free API. | ⭐ 4k+ | [Repo](https://github.com/anomalyco/models.dev) |
+| **Hermes Agent** | Self-improving AI agent by Nous Research — learns across sessions & runs on a $5 VPS. | ⭐ 175k+ | [Repo](https://github.com/nousresearch/hermes-agent) |
+| **CodeWhale** | Rust-built terminal coding agent for DeepSeek/MiMo — approval gates & streamed reasoning. | ⭐ 36k+ | [Repo](https://github.com/Hmbown/CodeWhale) |
 
 ---
 
