@@ -74,8 +74,10 @@
 | **Humanizer** | Claude Code skill that strips 30 tells of AI writing — kills em-dash spam, hedging & filler. | ⭐ 21k+ | [Repo](https://github.com/blader/humanizer) |
 | **models.dev** | Open-source database of AI model specs, pricing & capabilities — with a free API. | ⭐ 4k+ | [Repo](https://github.com/anomalyco/models.dev) |
 | **Hermes Agent** | Self-improving AI agent by Nous Research — learns across sessions & runs on a $5 VPS. | ⭐ 175k+ | [Repo](https://github.com/nousresearch/hermes-agent) |
+| **Hermes WebUI** | Self-hosted web & mobile UI for Hermes Agent — persistent memory, scheduling & voice input. | ⭐ 13k+ | [Repo](https://github.com/nesquena/hermes-webui) |
 | **CodeWhale** | Rust-built terminal coding agent for DeepSeek/MiMo — approval gates & streamed reasoning. | ⭐ 36k+ | [Repo](https://github.com/Hmbown/CodeWhale) |
 | **LLM Checker** | Scans your hardware & tells you exactly which local LLMs you can run — Ollama-integrated. | ⭐ 2k+ | [Repo](https://github.com/Pavelevich/llm-checker) |
+| **Odysseus** | Self-hosted AI workspace — the ChatGPT/Claude UI experience on your own hardware, with agents & deep research. | ⭐ 54k+ | [Repo](https://github.com/pewdiepie-archdaemon/odysseus) |
 
 ---
 
