@@ -69,6 +69,7 @@
 | **AnythingLLM** | All-in-one app for RAG, agents & local chat over your own documents. | ⭐ 30k+ | [Repo](https://github.com/Mintplex-Labs/anything-llm) |
 | **Chroma** | AI-native embedding/vector database — the memory layer for RAG apps. | ⭐ 20k+ | [Repo](https://github.com/chroma-core/chroma) |
 | **Marker** | Convert PDFs (and more) to clean Markdown — perfect for feeding LLMs. | ⭐ 23k+ | [Repo](https://github.com/datalab-to/marker) |
+| **PaddleOCR** | Turn any PDF or image into structured data for your AI — lightweight OCR in 100+ languages. | ⭐ 80k+ | [Repo](https://github.com/PaddlePaddle/PaddleOCR) |
 | **OpenFlowKit** | Local-first AI diagramming — Mermaid + 1,600 icons, code sync, MP4 export & MCP. | ⭐ 575 | [Repo](https://github.com/Vrun-design/openflowkit) |
 | **Spec Kit** | GitHub's toolkit for Spec-Driven Development — turn specs into code with 30+ AI agents. | ⭐ 107k+ | [Repo](https://github.com/github/spec-kit) |
 | **Humanizer** | Claude Code skill that strips 30 tells of AI writing — kills em-dash spam, hedging & filler. | ⭐ 21k+ | [Repo](https://github.com/blader/humanizer) |
@@ -83,6 +84,7 @@
 | **Open Notebook** | Open-source NotebookLM alternative — self-hosted research notebooks with more flexibility. | ⭐ 25k+ | [Repo](https://github.com/lfnovo/open-notebook) |
 | **ECC** | Agent-harness optimization kit — 63 agents & 251 skills for Claude Code, Cursor, Codex & more. | ⭐ 208k+ | [Repo](https://github.com/affaan-m/ECC) |
 | **Agent Reach** | Give your agent eyes on the internet — read & search Twitter, Reddit, YouTube & GitHub, zero API fees. | ⭐ 21k+ | [Repo](https://github.com/Panniantong/Agent-Reach) |
+| **MemPalace** | Local-first AI memory — verbatim recall via semantic search, plugs into Claude Code & MCP. | ⭐ 53k+ | [Repo](https://github.com/MemPalace/mempalace) |
 
 ---
 
