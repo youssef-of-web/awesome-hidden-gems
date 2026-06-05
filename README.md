@@ -119,6 +119,7 @@
 | **ffuf** | Fast web fuzzer in Go — directory, vhost & parameter discovery. | ⭐ 14k+ | [Repo](https://github.com/ffuf/ffuf) |
 | **NetExec (nxc)** | Swiss-army knife for pentesting networks — the maintained CrackMapExec. | ⭐ 5k+ | [Repo](https://github.com/Pennyw0rth/NetExec) |
 | **subfinder** | Fast passive subdomain discovery — recon essential by ProjectDiscovery. | ⭐ 11k+ | [Repo](https://github.com/projectdiscovery/subfinder) |
+| **ZAP** | The world's most used web app security scanner — free, open-source DAST proxy. | ⭐ 15k+ | [Repo](https://github.com/zaproxy/zaproxy) |
 
 > ⚠️ **Legal notice:** Only use these against systems you **own** or have **explicit written permission** to test. Unauthorized use is illegal.
 
