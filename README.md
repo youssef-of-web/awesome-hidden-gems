@@ -146,6 +146,7 @@
 | **OSV-Scanner** | Google's scanner for known vulns in your deps (powered by OSV.dev). | ⭐ 7k+ | [Repo](https://github.com/google/osv-scanner) |
 | **Kyverno** | Policy-as-code engine purpose-built for Kubernetes (no new language). | ⭐ 6k+ | [Repo](https://github.com/kyverno/kyverno) |
 | **Cosign / Sigstore** | Sign, verify & attest container images and artifacts. | ⭐ 5k+ | [Repo](https://github.com/sigstore/cosign) |
+| **Falco** | CNCF runtime security — eBPF-powered threat detection for containers & Kubernetes. | ⭐ 9k+ | [Repo](https://github.com/falcosecurity/falco) |
 
 ---
 
@@ -165,6 +166,7 @@
 | **Meilisearch** | Lightning-fast, typo-tolerant search engine that's dead simple to run. | ⭐ 48k+ | [Repo](https://github.com/meilisearch/meilisearch) |
 | **SeaweedFS** | Distributed, S3-compatible object storage for billions of files — self-host S3. | ⭐ 32k+ | [Repo](https://github.com/seaweedfs/seaweedfs) |
 | **MinIO** | High-performance, S3-compatible object storage — the popular self-hosted S3. | ⭐ 52k+ | [Repo](https://github.com/minio/minio) |
+| **Databasus** | PostgreSQL backups done right — Point-In-Time-Recovery & automatic restore verification. | ⭐ 7k+ | [Repo](https://github.com/databasus/databasus) |
 
 ---
 
