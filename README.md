@@ -78,6 +78,11 @@
 | **CodeWhale** | Rust-built terminal coding agent for DeepSeek/MiMo — approval gates & streamed reasoning. | ⭐ 36k+ | [Repo](https://github.com/Hmbown/CodeWhale) |
 | **LLM Checker** | Scans your hardware & tells you exactly which local LLMs you can run — Ollama-integrated. | ⭐ 2k+ | [Repo](https://github.com/Pavelevich/llm-checker) |
 | **Odysseus** | Self-hosted AI workspace — the ChatGPT/Claude UI experience on your own hardware, with agents & deep research. | ⭐ 54k+ | [Repo](https://github.com/pewdiepie-archdaemon/odysseus) |
+| **Headroom** | Compress tool outputs, logs & RAG chunks before the LLM — 60-95% fewer tokens, same answers. | ⭐ 14k+ | [Repo](https://github.com/chopratejas/headroom) |
+| **CopilotKit** | The frontend stack for AI agents & generative UI — embed copilots in React/Angular apps. | ⭐ 32k+ | [Repo](https://github.com/CopilotKit/CopilotKit) |
+| **Open Notebook** | Open-source NotebookLM alternative — self-hosted research notebooks with more flexibility. | ⭐ 25k+ | [Repo](https://github.com/lfnovo/open-notebook) |
+| **ECC** | Agent-harness optimization kit — 63 agents & 251 skills for Claude Code, Cursor, Codex & more. | ⭐ 208k+ | [Repo](https://github.com/affaan-m/ECC) |
+| **Agent Reach** | Give your agent eyes on the internet — read & search Twitter, Reddit, YouTube & GitHub, zero API fees. | ⭐ 21k+ | [Repo](https://github.com/Panniantong/Agent-Reach) |
 
 ---
 
@@ -241,6 +246,7 @@ These open-source gems do what costly or famous commercial tools do — for free
 | PostgREST · Supabase | Firebase |
 | Meilisearch · Qdrant | Algolia / Pinecone |
 | SeaweedFS · MinIO | AWS S3 (self-host) |
+| Open Notebook | Google NotebookLM |
 | Pulumi | Terraform Cloud |
 
 ---
