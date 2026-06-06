@@ -157,7 +157,7 @@
 | **Kyverno** | Policy-as-code engine purpose-built for Kubernetes (no new language). | ⭐ 6k+ | [Repo](https://github.com/kyverno/kyverno) |
 | **Cosign / Sigstore** | Sign, verify & attest container images and artifacts. | ⭐ 5k+ | [Repo](https://github.com/sigstore/cosign) |
 | **Falco** | CNCF runtime security — eBPF-powered threat detection for containers & Kubernetes. | ⭐ 9k+ | [Repo](https://github.com/falcosecurity/falco) |
-| SonarQube | Continuous code quality and security inspection platform that systematically catches bugs, code smells, and vulnerabilities. | ⭐ 10k+ | [Repo](https://github.com/SonarSource/sonarqube) |
+| **SonarQube** | Continuous code quality and security inspection platform that systematically catches bugs, code smells, and vulnerabilities. | ⭐ 10k+ | [Repo](https://github.com/SonarSource/sonarqube) |
 ---
 
 ## 🗄️ Databases & Data Layer
